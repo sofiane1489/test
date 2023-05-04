@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [saucedemo test]" guice-stage="DEVELOPMENT">
+  <parameter name="browservesion" value="111"/>
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="os" value="windows"/>
+  <parameter name="envName" value="browserstack"/>
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="osversion" value="11"/>
+  <parameter name="url" value="https://www.saucedemo.com/"/>
+  <test thread-count="5" name="login test(failed)">
+    <classes>
+      <class name="us.piit.LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="missingUsername"/>
+        </methods>
+      </class> <!-- us.piit.LoginTest -->
+    </classes>
+  </test> <!-- login test(failed) -->
+</suite> <!-- Failed suite [saucedemo test] -->

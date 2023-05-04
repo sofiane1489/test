@@ -1,0 +1,562 @@
+59:25:11.398 [main] INFO  23ogger {36} -username entered success
+59:25:11.466 [main] INFO  25ogger {36} -Password entered success
+59:25:11.672 [main] INFO  27ogger {36} -click on login button success
+59:25:11.699 [main] INFO  33ogger {36} -User logged in success
+59:25:11.744 [main] INFO  37ogger {36} -click on humberger menu success
+59:25:11.875 [main] INFO  40ogger {36} -click on logout lik success
+59:25:11.906 [main] INFO  46ogger {36} -login page header is displayed success
+59:25:11.918 [main] INFO  51ogger {36} -login page header text validation,logged out success
+59:28:22.355 [main] INFO  35ogger {36} - landed on Swag Labs
+59:28:22.496 [main] INFO  39ogger {36} -username entered success
+59:28:22.575 [main] INFO  41ogger {36} -Password entered success
+59:28:22.628 [main] INFO  43ogger {36} -click on login button success
+59:28:22.656 [main] INFO  49ogger {36} -validate error success
+59:28:24.366 [main] INFO  15ogger {36} - landed on Swag Labs
+59:28:24.474 [main] INFO  18ogger {36} -username entered success
+59:28:24.542 [main] INFO  20ogger {36} -Password entered success
+59:28:24.648 [main] INFO  22ogger {36} -click on login button success
+59:28:24.688 [main] INFO  28ogger {36} -Home page displayed success
+59:28:26.497 [main] INFO  56ogger {36} - landed on Swag Labs
+59:28:26.573 [main] INFO  60ogger {36} -username entered success
+59:28:26.649 [main] INFO  62ogger {36} -Password entered success
+59:28:26.710 [main] INFO  64ogger {36} -click on login button success
+59:28:26.746 [main] INFO  70ogger {36} -validate error success
+59:28:28.477 [main] INFO  78ogger {36} - landed on Swag Labs
+59:28:28.586 [main] INFO  81ogger {36} -username entered success
+59:28:28.642 [main] INFO  83ogger {36} -Password entered success
+59:28:28.703 [main] INFO  85ogger {36} -click on login button success
+59:28:28.733 [main] INFO  90ogger {36} -validate error success
+59:38:32.834 [main] INFO  23ogger {36} -username entered success
+59:38:32.896 [main] INFO  25ogger {36} -Password entered success
+59:38:33.120 [main] INFO  27ogger {36} -click on login button success
+59:38:33.147 [main] INFO  33ogger {36} -User logged in success
+59:38:33.198 [main] INFO  37ogger {36} -click on humberger menu success
+59:38:33.382 [main] INFO  40ogger {36} -click on logout lik success
+59:38:33.417 [main] INFO  46ogger {36} -login page header is displayed success
+59:38:33.430 [main] INFO  51ogger {36} -login page header text validation,logged out success
+59:38:33.488 [main] INFO  35ogger {36} -browser close success
+513:25:38.321 [main] INFO  40ogger {36} -chrome browser open success
+513:25:39.465 [main] INFO  23ogger {36} -username entered success
+513:25:39.547 [main] INFO  25ogger {36} -Password entered success
+513:25:39.680 [main] INFO  27ogger {36} -click on login button success
+513:25:39.716 [main] INFO  33ogger {36} -User logged in success
+513:25:39.777 [main] INFO  37ogger {36} -click on humberger menu success
+513:25:40.074 [main] INFO  40ogger {36} -click on logout lik success
+513:25:40.126 [main] INFO  46ogger {36} -login page header is displayed success
+513:25:40.140 [main] INFO  51ogger {36} -login page header text validation,logged out success
+513:25:40.213 [main] INFO  65ogger {36} -browser close success
+513:26:07.969 [main] INFO  40ogger {36} -chrome browser open success
+513:26:08.677 [main] INFO  35ogger {36} - landed on Swag Labs
+513:26:08.812 [main] INFO  39ogger {36} -username entered success
+513:26:08.898 [main] INFO  41ogger {36} -Password entered success
+513:26:08.974 [main] INFO  43ogger {36} -click on login button success
+513:26:09.008 [main] INFO  49ogger {36} -validate error success
+513:26:09.073 [main] INFO  65ogger {36} -browser close success
+513:26:10.272 [main] INFO  40ogger {36} -chrome browser open success
+513:26:10.946 [main] INFO  15ogger {36} - landed on Swag Labs
+513:26:11.097 [main] INFO  18ogger {36} -username entered success
+513:26:11.188 [main] INFO  20ogger {36} -Password entered success
+513:26:11.311 [main] INFO  22ogger {36} -click on login button success
+513:26:11.343 [main] INFO  28ogger {36} -Home page displayed success
+513:26:11.405 [main] INFO  65ogger {36} -browser close success
+513:26:12.653 [main] INFO  40ogger {36} -chrome browser open success
+513:26:13.299 [main] INFO  56ogger {36} - landed on Swag Labs
+513:26:13.375 [main] INFO  60ogger {36} -username entered success
+513:26:13.465 [main] INFO  62ogger {36} -Password entered success
+513:26:13.539 [main] INFO  64ogger {36} -click on login button success
+513:26:13.576 [main] INFO  70ogger {36} -validate error success
+513:26:13.629 [main] INFO  65ogger {36} -browser close success
+513:26:14.859 [main] INFO  40ogger {36} -chrome browser open success
+513:26:15.536 [main] INFO  78ogger {36} - landed on Swag Labs
+513:26:15.662 [main] INFO  81ogger {36} -username entered success
+513:26:15.728 [main] INFO  83ogger {36} -Password entered success
+513:26:15.803 [main] INFO  85ogger {36} -click on login button success
+513:26:15.838 [main] INFO  90ogger {36} -validate error success
+513:26:15.898 [main] INFO  65ogger {36} -browser close success
+513:30:30.008 [main] INFO  35ogger {36} - landed on Swag Labs
+513:30:30.585 [main] INFO  39ogger {36} -username entered success
+513:30:30.914 [main] INFO  41ogger {36} -Password entered success
+513:30:31.359 [main] INFO  43ogger {36} -click on login button success
+513:30:31.733 [main] INFO  49ogger {36} -validate error success
+513:30:32.323 [main] INFO  65ogger {36} -browser close success
+513:30:38.868 [main] INFO  15ogger {36} - landed on Swag Labs
+513:30:39.347 [main] INFO  18ogger {36} -username entered success
+513:30:39.718 [main] INFO  20ogger {36} -Password entered success
+513:30:40.303 [main] INFO  22ogger {36} -click on login button success
+513:30:40.574 [main] INFO  28ogger {36} -Home page displayed success
+513:30:41.377 [main] INFO  65ogger {36} -browser close success
+513:30:48.585 [main] INFO  56ogger {36} - landed on Swag Labs
+513:30:48.908 [main] INFO  60ogger {36} -username entered success
+513:30:49.291 [main] INFO  62ogger {36} -Password entered success
+513:30:49.726 [main] INFO  64ogger {36} -click on login button success
+513:30:50.177 [main] INFO  70ogger {36} -validate error success
+513:30:50.559 [main] INFO  65ogger {36} -browser close success
+513:30:56.772 [main] INFO  78ogger {36} - landed on Swag Labs
+513:30:57.117 [main] INFO  81ogger {36} -username entered success
+513:30:57.465 [main] INFO  83ogger {36} -Password entered success
+513:30:57.917 [main] INFO  85ogger {36} -click on login button success
+513:30:58.249 [main] INFO  90ogger {36} -validate error success
+513:30:58.779 [main] INFO  65ogger {36} -browser close success
+513:39:04.157 [main] INFO  35ogger {36} - landed on Swag Labs
+513:39:04.554 [main] INFO  39ogger {36} -username entered success
+513:39:04.921 [main] INFO  41ogger {36} -Password entered success
+513:39:05.457 [main] INFO  43ogger {36} -click on login button success
+513:39:05.690 [main] INFO  49ogger {36} -validate error success
+513:39:05.974 [main] INFO  65ogger {36} -browser close success
+513:39:11.375 [main] INFO  15ogger {36} - landed on Swag Labs
+513:39:12.270 [main] INFO  18ogger {36} -username entered success
+513:39:12.593 [main] INFO  20ogger {36} -Password entered success
+513:39:13.024 [main] INFO  22ogger {36} -click on login button success
+513:39:13.359 [main] INFO  28ogger {36} -Home page displayed success
+513:39:13.659 [main] INFO  65ogger {36} -browser close success
+513:39:20.525 [main] INFO  56ogger {36} - landed on Swag Labs
+513:39:20.792 [main] INFO  60ogger {36} -username entered success
+513:39:21.241 [main] INFO  62ogger {36} -Password entered success
+513:39:21.691 [main] INFO  64ogger {36} -click on login button success
+513:39:21.958 [main] INFO  70ogger {36} -validate error success
+513:39:22.218 [main] INFO  65ogger {36} -browser close success
+513:39:28.148 [main] INFO  78ogger {36} - landed on Swag Labs
+513:39:28.542 [main] INFO  81ogger {36} -username entered success
+513:39:28.865 [main] INFO  83ogger {36} -Password entered success
+513:39:29.236 [main] INFO  85ogger {36} -click on login button success
+513:39:29.507 [main] INFO  90ogger {36} -validate error success
+513:39:30.172 [main] INFO  65ogger {36} -browser close success
+513:46:23.822 [main] INFO  35ogger {36} - landed on Swag Labs
+513:46:24.525 [main] INFO  39ogger {36} -username entered success
+513:46:24.923 [main] INFO  41ogger {36} -Password entered success
+513:46:25.383 [main] INFO  43ogger {36} -click on login button success
+513:46:25.831 [main] INFO  49ogger {36} -validate error success
+513:46:26.364 [main] INFO  65ogger {36} -browser close success
+513:46:34.677 [main] INFO  15ogger {36} - landed on Swag Labs
+513:46:35.112 [main] INFO  18ogger {36} -username entered success
+513:46:35.729 [main] INFO  20ogger {36} -Password entered success
+513:46:36.512 [main] INFO  22ogger {36} -click on login button success
+513:46:36.804 [main] INFO  28ogger {36} -Home page displayed success
+513:46:39.953 [main] INFO  65ogger {36} -browser close success
+513:46:45.306 [main] INFO  56ogger {36} - landed on Swag Labs
+513:46:45.695 [main] INFO  60ogger {36} -username entered success
+513:46:46.073 [main] INFO  62ogger {36} -Password entered success
+513:46:46.509 [main] INFO  64ogger {36} -click on login button success
+513:46:46.730 [main] INFO  70ogger {36} -validate error success
+513:46:47.966 [main] INFO  65ogger {36} -browser close success
+513:46:53.482 [main] INFO  78ogger {36} - landed on Swag Labs
+513:46:53.812 [main] INFO  81ogger {36} -username entered success
+513:46:54.240 [main] INFO  83ogger {36} -Password entered success
+513:46:54.545 [main] INFO  85ogger {36} -click on login button success
+513:46:54.863 [main] INFO  90ogger {36} -validate error success
+513:46:55.081 [main] INFO  65ogger {36} -browser close success
+514:27:31.488 [main] INFO  35ogger {36} - landed on Swag Labs
+514:27:31.927 [main] INFO  39ogger {36} -username entered success
+514:27:32.173 [main] INFO  41ogger {36} -Password entered success
+514:27:32.658 [main] INFO  43ogger {36} -click on login button success
+514:27:32.819 [main] INFO  49ogger {36} -validate error success
+514:27:34.659 [main] INFO  64ogger {36} -browser close success
+514:27:49.018 [main] INFO  15ogger {36} - landed on Swag Labs
+514:27:49.306 [main] INFO  18ogger {36} -username entered success
+514:27:49.637 [main] INFO  20ogger {36} -Password entered success
+514:27:50.258 [main] INFO  22ogger {36} -click on login button success
+514:27:50.556 [main] INFO  28ogger {36} -Home page displayed success
+514:27:52.216 [main] INFO  64ogger {36} -browser close success
+514:28:05.451 [main] INFO  56ogger {36} - landed on Swag Labs
+514:28:05.730 [main] INFO  60ogger {36} -username entered success
+514:28:06.020 [main] INFO  62ogger {36} -Password entered success
+514:28:06.467 [main] INFO  64ogger {36} -click on login button success
+514:28:08.412 [main] INFO  64ogger {36} -browser close success
+514:28:23.559 [main] INFO  78ogger {36} - landed on Swag Labs
+514:28:23.926 [main] INFO  81ogger {36} -username entered success
+514:28:24.317 [main] INFO  83ogger {36} -Password entered success
+514:28:24.969 [main] INFO  85ogger {36} -click on login button success
+514:28:26.300 [main] INFO  90ogger {36} -validate error success
+514:28:28.196 [main] INFO  64ogger {36} -browser close success
+515:43:46.348 [main] INFO  35ogger {36} - landed on Swag Labs
+515:43:46.670 [main] INFO  39ogger {36} -username entered success
+515:43:46.849 [main] INFO  41ogger {36} -Password entered success
+515:43:47.596 [main] INFO  43ogger {36} -click on login button success
+515:43:47.977 [main] INFO  49ogger {36} -validate error success
+515:43:49.615 [main] INFO  68ogger {36} -browser close success
+515:44:00.332 [main] INFO  15ogger {36} - landed on Swag Labs
+515:44:00.577 [main] INFO  18ogger {36} -username entered success
+515:44:03.562 [main] INFO  68ogger {36} -browser close success
+515:44:19.450 [main] INFO  56ogger {36} - landed on Swag Labs
+515:44:19.698 [main] INFO  60ogger {36} -username entered success
+515:44:20.101 [main] INFO  62ogger {36} -Password entered success
+515:44:20.625 [main] INFO  64ogger {36} -click on login button success
+515:44:22.202 [main] INFO  68ogger {36} -browser close success
+515:44:32.743 [main] INFO  78ogger {36} - landed on Swag Labs
+515:44:33.029 [main] INFO  81ogger {36} -username entered success
+515:44:33.329 [main] INFO  83ogger {36} -Password entered success
+515:44:33.764 [main] INFO  85ogger {36} -click on login button success
+515:44:34.136 [main] INFO  90ogger {36} -validate error success
+515:44:37.109 [main] INFO  68ogger {36} -browser close success
+515:46:43.193 [main] INFO  35ogger {36} - landed on Swag Labs
+515:46:43.508 [main] INFO  39ogger {36} -username entered success
+515:46:43.729 [main] INFO  41ogger {36} -Password entered success
+515:46:44.469 [main] INFO  43ogger {36} -click on login button success
+515:46:44.791 [main] INFO  49ogger {36} -validate error success
+515:46:46.149 [main] INFO  68ogger {36} -browser close success
+515:46:56.887 [main] INFO  15ogger {36} - landed on Swag Labs
+515:46:57.182 [main] INFO  18ogger {36} -username entered success
+515:46:57.430 [main] INFO  20ogger {36} -Password entered success
+515:46:57.902 [main] INFO  22ogger {36} -click on login button success
+515:47:09.467 [main] INFO  68ogger {36} -browser close success
+515:47:19.938 [main] INFO  56ogger {36} - landed on Swag Labs
+515:47:20.126 [main] INFO  60ogger {36} -username entered success
+515:47:20.405 [main] INFO  62ogger {36} -Password entered success
+515:47:20.902 [main] INFO  64ogger {36} -click on login button success
+515:47:22.940 [main] INFO  68ogger {36} -browser close success
+515:47:35.900 [main] INFO  78ogger {36} - landed on Swag Labs
+515:47:36.188 [main] INFO  81ogger {36} -username entered success
+515:47:36.439 [main] INFO  83ogger {36} -Password entered success
+515:47:36.955 [main] INFO  85ogger {36} -click on login button success
+515:47:37.295 [main] INFO  90ogger {36} -validate error success
+515:47:38.702 [main] INFO  68ogger {36} -browser close success
+515:51:04.090 [main] INFO  35ogger {36} - landed on Swag Labs
+515:51:04.378 [main] INFO  39ogger {36} -username entered success
+515:51:04.679 [main] INFO  41ogger {36} -Password entered success
+515:51:05.188 [main] INFO  43ogger {36} -click on login button success
+515:51:05.617 [main] INFO  49ogger {36} -validate error success
+515:51:07.083 [main] INFO  68ogger {36} -browser close success
+515:51:17.313 [main] INFO  15ogger {36} - landed on Swag Labs
+515:51:17.748 [main] INFO  18ogger {36} -username entered success
+515:51:18.012 [main] INFO  20ogger {36} -Password entered success
+515:51:18.636 [main] INFO  22ogger {36} -click on login button success
+515:51:30.426 [main] INFO  68ogger {36} -browser close success
+515:51:41.266 [main] INFO  56ogger {36} - landed on Swag Labs
+515:51:41.605 [main] INFO  60ogger {36} -username entered success
+515:51:41.903 [main] INFO  62ogger {36} -Password entered success
+515:51:42.562 [main] INFO  64ogger {36} -click on login button success
+515:51:44.925 [main] INFO  68ogger {36} -browser close success
+515:51:55.875 [main] INFO  78ogger {36} - landed on Swag Labs
+515:51:56.082 [main] INFO  81ogger {36} -username entered success
+515:51:56.267 [main] INFO  83ogger {36} -Password entered success
+515:51:56.750 [main] INFO  85ogger {36} -click on login button success
+515:51:57.103 [main] INFO  90ogger {36} -validate error success
+515:51:58.643 [main] INFO  68ogger {36} -browser close success
+515:53:41.302 [main] INFO  35ogger {36} - landed on Swag Labs
+515:53:41.876 [main] INFO  39ogger {36} -username entered success
+515:53:42.170 [main] INFO  41ogger {36} -Password entered success
+515:53:42.632 [main] INFO  43ogger {36} -click on login button success
+515:53:43.088 [main] INFO  49ogger {36} -validate error success
+515:53:44.501 [main] INFO  68ogger {36} -browser close success
+515:54:11.070 [main] INFO  15ogger {36} - landed on Swag Labs
+515:54:11.484 [main] INFO  18ogger {36} -username entered success
+515:54:11.690 [main] INFO  20ogger {36} -Password entered success
+515:54:12.121 [main] INFO  22ogger {36} -click on login button success
+515:54:23.647 [main] INFO  68ogger {36} -browser close success
+515:54:34.743 [main] INFO  56ogger {36} - landed on Swag Labs
+515:54:35.426 [main] INFO  60ogger {36} -username entered success
+515:54:36.094 [main] INFO  62ogger {36} -Password entered success
+515:54:36.767 [main] INFO  64ogger {36} -click on login button success
+515:54:39.028 [main] INFO  68ogger {36} -browser close success
+515:54:49.898 [main] INFO  78ogger {36} - landed on Swag Labs
+515:54:50.274 [main] INFO  81ogger {36} -username entered success
+515:54:50.560 [main] INFO  83ogger {36} -Password entered success
+515:54:51.038 [main] INFO  85ogger {36} -click on login button success
+515:54:51.317 [main] INFO  90ogger {36} -validate error success
+515:54:52.765 [main] INFO  68ogger {36} -browser close success
+515:58:24.675 [main] INFO  36ogger {36} - landed on Swag Labs
+515:58:24.977 [main] INFO  40ogger {36} -username entered success
+515:58:25.358 [main] INFO  42ogger {36} -Password entered success
+515:58:26.136 [main] INFO  44ogger {36} -click on login button success
+515:58:26.495 [main] INFO  50ogger {36} -validate error success
+515:58:28.060 [main] INFO  68ogger {36} -browser close success
+515:58:38.672 [main] INFO  15ogger {36} - landed on Swag Labs
+515:58:38.935 [main] INFO  18ogger {36} -username entered success
+515:58:39.163 [main] INFO  20ogger {36} -Password entered success
+515:58:39.576 [main] INFO  22ogger {36} -click on login button success
+515:58:51.404 [main] INFO  68ogger {36} -browser close success
+516:02:10.944 [main] INFO  15ogger {36} - landed on Swag Labs
+516:02:11.190 [main] INFO  18ogger {36} -username entered success
+516:02:11.618 [main] INFO  20ogger {36} -Password entered success
+516:02:12.565 [main] INFO  22ogger {36} -click on login button success
+516:02:24.272 [main] INFO  68ogger {36} -browser close success
+516:04:06.858 [main] INFO  15ogger {36} - landed on Swag Labs
+516:04:07.344 [main] INFO  18ogger {36} -username entered success
+516:04:07.697 [main] INFO  20ogger {36} -Password entered success
+516:04:08.415 [main] INFO  22ogger {36} -click on login button success
+516:04:19.839 [main] INFO  68ogger {36} -browser close success
+516:04:46.872 [main] INFO  15ogger {36} - landed on Swag Labs
+516:04:47.480 [main] INFO  18ogger {36} -username entered success
+516:04:47.856 [main] INFO  20ogger {36} -Password entered success
+516:04:48.205 [main] INFO  22ogger {36} -click on login button success
+516:04:59.428 [main] INFO  68ogger {36} -browser close success
+516:05:08.237 [main] INFO  43ogger {36} -chrome browser open success
+516:05:09.365 [main] INFO  15ogger {36} - landed on Swag Labs
+516:05:09.441 [main] INFO  18ogger {36} -username entered success
+516:05:09.492 [main] INFO  20ogger {36} -Password entered success
+516:05:09.537 [main] INFO  22ogger {36} -click on login button success
+516:05:19.445 [main] INFO  68ogger {36} -browser close success
+516:06:16.022 [main] INFO  43ogger {36} -chrome browser open success
+516:06:16.675 [main] INFO  15ogger {36} - landed on Swag Labs
+516:06:16.771 [main] INFO  18ogger {36} -username entered success
+516:06:16.832 [main] INFO  20ogger {36} -Password entered success
+516:06:16.917 [main] INFO  22ogger {36} -click on login button success
+516:06:16.976 [main] INFO  29ogger {36} -Home page displayed success
+516:06:17.225 [main] INFO  68ogger {36} -browser close success
+516:07:22.634 [main] INFO  36ogger {36} - landed on Swag Labs
+516:07:23.068 [main] INFO  40ogger {36} -username entered success
+516:07:23.441 [main] INFO  42ogger {36} -Password entered success
+516:07:23.820 [main] INFO  44ogger {36} -click on login button success
+516:07:24.188 [main] INFO  50ogger {36} -validate error success
+516:07:24.832 [main] INFO  68ogger {36} -browser close success
+516:07:30.247 [main] INFO  15ogger {36} - landed on Swag Labs
+516:07:30.613 [main] INFO  18ogger {36} -username entered success
+516:07:30.931 [main] INFO  20ogger {36} -Password entered success
+516:07:31.365 [main] INFO  22ogger {36} -click on login button success
+516:07:31.763 [main] INFO  29ogger {36} -Home page displayed success
+516:07:32.402 [main] INFO  68ogger {36} -browser close success
+516:07:38.864 [main] INFO  57ogger {36} - landed on Swag Labs
+516:07:39.251 [main] INFO  61ogger {36} -username entered success
+516:07:39.628 [main] INFO  63ogger {36} -Password entered success
+516:07:40.062 [main] INFO  65ogger {36} -click on login button success
+516:07:41.005 [main] INFO  68ogger {36} -browser close success
+516:07:47.400 [main] INFO  79ogger {36} - landed on Swag Labs
+516:07:47.768 [main] INFO  82ogger {36} -username entered success
+516:07:48.169 [main] INFO  84ogger {36} -Password entered success
+516:07:48.475 [main] INFO  86ogger {36} -click on login button success
+516:07:48.903 [main] INFO  91ogger {36} -validate error success
+516:07:49.501 [main] INFO  68ogger {36} -browser close success
+516:08:19.384 [main] INFO  23ogger {36} -username entered success
+516:08:19.869 [main] INFO  25ogger {36} -Password entered success
+516:08:20.712 [main] INFO  27ogger {36} -click on login button success
+516:08:21.051 [main] INFO  33ogger {36} -User logged in success
+516:08:21.302 [main] INFO  37ogger {36} -click on humberger menu success
+516:08:21.648 [main] INFO  40ogger {36} -click on logout lik success
+516:08:21.974 [main] INFO  45ogger {36} -login page header is displayed success
+516:08:22.133 [main] INFO  50ogger {36} -login page header text validation,logged out success
+516:08:22.753 [main] INFO  68ogger {36} -browser close success
+516:17:24.934 [main] INFO  43ogger {36} -chrome browser open success
+516:17:25.930 [main] INFO  36ogger {36} - landed on Swag Labs
+516:17:26.018 [main] INFO  40ogger {36} -username entered success
+516:17:26.083 [main] INFO  42ogger {36} -Password entered success
+516:17:26.132 [main] INFO  44ogger {36} -click on login button success
+516:17:26.177 [main] INFO  50ogger {36} -validate error success
+516:17:26.430 [main] INFO  68ogger {36} -browser close success
+516:17:27.371 [main] INFO  43ogger {36} -chrome browser open success
+516:17:27.931 [main] INFO  15ogger {36} - landed on Swag Labs
+516:17:28.049 [main] INFO  18ogger {36} -username entered success
+516:17:28.116 [main] INFO  20ogger {36} -Password entered success
+516:17:28.619 [main] INFO  22ogger {36} -click on login button success
+516:17:28.672 [main] INFO  29ogger {36} -Home page displayed success
+516:17:28.915 [main] INFO  68ogger {36} -browser close success
+516:17:29.844 [main] INFO  43ogger {36} -chrome browser open success
+516:17:30.477 [main] INFO  57ogger {36} - landed on Swag Labs
+516:17:30.527 [main] INFO  61ogger {36} -username entered success
+516:17:30.589 [main] INFO  63ogger {36} -Password entered success
+516:17:30.641 [main] INFO  65ogger {36} -click on login button success
+516:17:30.892 [main] INFO  68ogger {36} -browser close success
+516:17:31.747 [main] INFO  43ogger {36} -chrome browser open success
+516:17:32.360 [main] INFO  79ogger {36} - landed on Swag Labs
+516:17:32.441 [main] INFO  82ogger {36} -username entered success
+516:17:32.488 [main] INFO  84ogger {36} -Password entered success
+516:17:32.533 [main] INFO  86ogger {36} -click on login button success
+516:17:32.575 [main] INFO  91ogger {36} -validate error success
+516:17:32.815 [main] INFO  68ogger {36} -browser close success
+516:18:39.183 [main] INFO  36ogger {36} - landed on Swag Labs
+516:18:39.675 [main] INFO  40ogger {36} -username entered success
+516:18:39.957 [main] INFO  42ogger {36} -Password entered success
+516:18:41.208 [main] INFO  44ogger {36} -click on login button success
+516:18:42.092 [main] INFO  50ogger {36} -validate error success
+516:18:43.733 [main] INFO  68ogger {36} -browser close success
+516:18:54.956 [main] INFO  15ogger {36} - landed on Swag Labs
+516:18:55.283 [main] INFO  18ogger {36} -username entered success
+516:18:55.668 [main] INFO  20ogger {36} -Password entered success
+516:18:56.225 [main] INFO  22ogger {36} -click on login button success
+516:18:56.518 [main] INFO  29ogger {36} -Home page displayed success
+516:18:58.070 [main] INFO  68ogger {36} -browser close success
+516:19:08.690 [main] INFO  57ogger {36} - landed on Swag Labs
+516:19:08.959 [main] INFO  61ogger {36} -username entered success
+516:19:09.276 [main] INFO  63ogger {36} -Password entered success
+516:19:09.891 [main] INFO  65ogger {36} -click on login button success
+516:19:11.854 [main] INFO  68ogger {36} -browser close success
+516:19:22.081 [main] INFO  79ogger {36} - landed on Swag Labs
+516:19:22.379 [main] INFO  82ogger {36} -username entered success
+516:19:22.608 [main] INFO  84ogger {36} -Password entered success
+516:19:23.120 [main] INFO  86ogger {36} -click on login button success
+516:19:23.527 [main] INFO  91ogger {36} -validate error success
+516:19:25.025 [main] INFO  68ogger {36} -browser close success
+58:56:44.062 [main] INFO  43ogger {36} -chrome browser open success
+58:56:45.066 [main] INFO  35ogger {36} - landed on Swag Labs
+58:56:45.129 [main] INFO  39ogger {36} -username entered success
+58:56:45.187 [main] INFO  41ogger {36} -Password entered success
+58:56:45.231 [main] INFO  43ogger {36} -click on login button success
+58:56:45.273 [main] INFO  49ogger {36} -validate error success
+58:56:45.507 [main] INFO  68ogger {36} -browser close success
+58:56:46.361 [main] INFO  43ogger {36} -chrome browser open success
+58:56:47.004 [main] INFO  78ogger {36} - landed on Swag Labs
+58:56:47.085 [main] INFO  81ogger {36} -username entered success
+58:56:47.137 [main] INFO  83ogger {36} -Password entered success
+58:56:47.187 [main] INFO  85ogger {36} -click on login button success
+58:56:47.227 [main] INFO  90ogger {36} -validate error success
+58:56:47.450 [main] INFO  68ogger {36} -browser close success
+58:56:48.316 [main] INFO  43ogger {36} -chrome browser open success
+58:56:51.248 [main] INFO  56ogger {36} - landed on Swag Labs
+58:56:51.285 [main] INFO  60ogger {36} -username entered success
+58:56:51.330 [main] INFO  62ogger {36} -Password entered success
+58:56:51.369 [main] INFO  64ogger {36} -click on login button success
+58:56:51.589 [main] INFO  68ogger {36} -browser close success
+58:56:52.420 [main] INFO  43ogger {36} -chrome browser open success
+58:56:52.989 [main] INFO  14ogger {36} - landed on Swag Labs
+58:56:53.064 [main] INFO  17ogger {36} -username entered success
+58:56:53.116 [main] INFO  19ogger {36} -Password entered success
+58:56:53.457 [main] INFO  21ogger {36} -click on login button success
+58:56:53.508 [main] INFO  28ogger {36} -Home page displayed success
+58:56:53.755 [main] INFO  68ogger {36} -browser close success
+58:56:54.598 [main] INFO  43ogger {36} -chrome browser open success
+58:56:55.238 [main] INFO  22ogger {36} -username entered success
+58:56:55.293 [main] INFO  24ogger {36} -Password entered success
+58:56:55.367 [main] INFO  26ogger {36} -click on login button success
+58:56:55.421 [main] INFO  32ogger {36} -User logged in success
+58:56:55.468 [main] INFO  36ogger {36} -click on humberger menu success
+58:56:55.634 [main] INFO  39ogger {36} -click on logout lik success
+58:56:55.658 [main] INFO  44ogger {36} -login page header is displayed success
+58:56:55.673 [main] INFO  49ogger {36} -login page header text validation,logged out success
+58:56:55.912 [main] INFO  68ogger {36} -browser close success
+510:11:26.611 [main] INFO  43ogger {36} -chrome browser open success
+510:11:28.901 [main] INFO  36ogger {36} - landed on Swag Labs
+510:11:28.977 [main] INFO  40ogger {36} -username entered success
+510:11:29.020 [main] INFO  42ogger {36} -Password entered success
+510:11:29.061 [main] INFO  44ogger {36} -click on login button success
+510:11:29.103 [main] INFO  50ogger {36} -validate error success
+510:11:29.312 [main] INFO  71ogger {36} -browser close success
+510:11:30.162 [main] INFO  43ogger {36} -chrome browser open success
+510:11:32.497 [main] INFO  79ogger {36} - landed on Swag Labs
+510:11:32.568 [main] INFO  82ogger {36} -username entered success
+510:11:32.608 [main] INFO  84ogger {36} -Password entered success
+510:11:32.647 [main] INFO  86ogger {36} -click on login button success
+510:11:32.679 [main] INFO  91ogger {36} -validate error success
+510:11:32.874 [main] INFO  71ogger {36} -browser close success
+510:11:33.717 [main] INFO  43ogger {36} -chrome browser open success
+510:11:34.237 [main] INFO  57ogger {36} - landed on Swag Labs
+510:11:34.282 [main] INFO  61ogger {36} -username entered success
+510:11:34.341 [main] INFO  63ogger {36} -Password entered success
+510:11:34.383 [main] INFO  65ogger {36} -click on login button success
+510:11:34.611 [main] INFO  71ogger {36} -browser close success
+510:11:35.457 [main] INFO  43ogger {36} -chrome browser open success
+510:11:37.171 [main] INFO  15ogger {36} - landed on Swag Labs
+510:11:37.237 [main] INFO  18ogger {36} -username entered success
+510:11:37.282 [main] INFO  20ogger {36} -Password entered success
+510:11:37.339 [main] INFO  22ogger {36} -click on login button success
+510:11:37.370 [main] INFO  29ogger {36} -Home page displayed success
+510:11:37.553 [main] INFO  71ogger {36} -browser close success
+510:11:38.378 [main] INFO  43ogger {36} -chrome browser open success
+510:11:42.250 [main] INFO  22ogger {36} -username entered success
+510:11:42.294 [main] INFO  24ogger {36} -Password entered success
+510:11:42.352 [main] INFO  26ogger {36} -click on login button success
+510:11:42.386 [main] INFO  32ogger {36} -User logged in success
+510:11:42.416 [main] INFO  36ogger {36} -click on humberger menu success
+510:11:42.800 [main] INFO  39ogger {36} -click on logout lik success
+510:11:42.830 [main] INFO  44ogger {36} -login page header is displayed success
+510:11:42.849 [main] INFO  49ogger {36} -login page header text validation,logged out success
+510:11:43.102 [main] INFO  71ogger {36} -browser close success
+510:15:22.246 [main] INFO  43ogger {36} -chrome browser open success
+510:15:22.929 [main] INFO  36ogger {36} - landed on Swag Labs
+510:15:23.005 [main] INFO  40ogger {36} -username entered success
+510:15:23.054 [main] INFO  42ogger {36} -Password entered success
+510:15:23.099 [main] INFO  44ogger {36} -click on login button success
+510:15:23.140 [main] INFO  50ogger {36} -validate error success
+510:15:23.372 [main] INFO  71ogger {36} -browser close success
+510:15:24.215 [main] INFO  43ogger {36} -chrome browser open success
+510:15:26.470 [main] INFO  79ogger {36} - landed on Swag Labs
+510:15:26.540 [main] INFO  82ogger {36} -username entered success
+510:15:26.581 [main] INFO  84ogger {36} -Password entered success
+510:15:26.623 [main] INFO  86ogger {36} -click on login button success
+510:15:26.659 [main] INFO  91ogger {36} -validate error success
+510:15:26.884 [main] INFO  71ogger {36} -browser close success
+510:15:27.708 [main] INFO  43ogger {36} -chrome browser open success
+510:15:28.342 [main] INFO  57ogger {36} - landed on Swag Labs
+510:15:28.389 [main] INFO  61ogger {36} -username entered success
+510:15:28.444 [main] INFO  63ogger {36} -Password entered success
+510:15:28.487 [main] INFO  65ogger {36} -click on login button success
+510:15:28.758 [main] INFO  71ogger {36} -browser close success
+510:15:29.589 [main] INFO  43ogger {36} -chrome browser open success
+510:15:32.461 [main] INFO  15ogger {36} - landed on Swag Labs
+510:15:32.540 [main] INFO  18ogger {36} -username entered success
+510:15:32.583 [main] INFO  20ogger {36} -Password entered success
+510:15:32.639 [main] INFO  22ogger {36} -click on login button success
+510:15:32.674 [main] INFO  29ogger {36} -Home page displayed success
+510:15:32.861 [main] INFO  71ogger {36} -browser close success
+510:15:33.715 [main] INFO  43ogger {36} -chrome browser open success
+510:15:36.077 [main] INFO  22ogger {36} -username entered success
+510:15:36.120 [main] INFO  24ogger {36} -Password entered success
+510:15:36.189 [main] INFO  26ogger {36} -click on login button success
+510:15:36.228 [main] INFO  32ogger {36} -User logged in success
+510:15:36.257 [main] INFO  36ogger {36} -click on humberger menu success
+510:15:36.350 [main] INFO  39ogger {36} -click on logout lik success
+510:15:36.371 [main] INFO  44ogger {36} -login page header is displayed success
+510:15:36.385 [main] INFO  49ogger {36} -login page header text validation,logged out success
+510:15:36.640 [main] INFO  71ogger {36} -browser close success
+512:22:16.771 [main] INFO  43ogger {36} -chrome browser open success
+512:22:17.903 [main] INFO  36ogger {36} - landed on Swag Labs
+512:22:17.999 [main] INFO  40ogger {36} -username entered success
+512:22:18.044 [main] INFO  42ogger {36} -Password entered success
+512:22:18.094 [main] INFO  44ogger {36} -click on login button success
+512:22:18.147 [main] INFO  50ogger {36} -validate error success
+512:22:18.344 [main] INFO  71ogger {36} -browser close success
+512:22:19.176 [main] INFO  43ogger {36} -chrome browser open success
+512:22:19.818 [main] INFO  79ogger {36} - landed on Swag Labs
+512:22:19.894 [main] INFO  82ogger {36} -username entered success
+512:22:19.950 [main] INFO  84ogger {36} -Password entered success
+512:22:19.995 [main] INFO  86ogger {36} -click on login button success
+512:22:20.027 [main] INFO  91ogger {36} -validate error success
+512:22:20.266 [main] INFO  71ogger {36} -browser close success
+512:22:21.101 [main] INFO  43ogger {36} -chrome browser open success
+512:22:21.717 [main] INFO  57ogger {36} - landed on Swag Labs
+512:22:21.762 [main] INFO  61ogger {36} -username entered success
+512:22:21.842 [main] INFO  63ogger {36} -Password entered success
+512:22:21.889 [main] INFO  65ogger {36} -click on login button success
+512:22:22.167 [main] INFO  71ogger {36} -browser close success
+512:22:23.002 [main] INFO  43ogger {36} -chrome browser open success
+512:22:23.599 [main] INFO  15ogger {36} - landed on Swag Labs
+512:22:23.670 [main] INFO  18ogger {36} -username entered success
+512:22:23.730 [main] INFO  20ogger {36} -Password entered success
+512:22:24.278 [main] INFO  22ogger {36} -click on login button success
+512:22:24.336 [main] INFO  29ogger {36} -Home page displayed success
+512:22:24.542 [main] INFO  71ogger {36} -browser close success
+512:22:25.390 [main] INFO  43ogger {36} -chrome browser open success
+512:22:26.146 [main] INFO  22ogger {36} -username entered success
+512:22:26.225 [main] INFO  24ogger {36} -Password entered success
+512:22:26.301 [main] INFO  26ogger {36} -click on login button success
+512:22:26.364 [main] INFO  32ogger {36} -User logged in success
+512:22:26.407 [main] INFO  36ogger {36} -click on humberger menu success
+512:22:26.575 [main] INFO  39ogger {36} -click on logout lik success
+512:22:26.601 [main] INFO  44ogger {36} -login page header is displayed success
+512:22:26.614 [main] INFO  49ogger {36} -login page header text validation,logged out success
+512:22:26.864 [main] INFO  71ogger {36} -browser close success
+514:21:27.509 [main] INFO  43ogger {36} -chrome browser open success
+514:21:28.600 [main] INFO  36ogger {36} - landed on Swag Labs
+514:21:28.751 [main] INFO  40ogger {36} -username entered success
+514:21:28.836 [main] INFO  42ogger {36} -Password entered success
+514:21:28.908 [main] INFO  44ogger {36} -click on login button success
+514:21:28.971 [main] INFO  50ogger {36} -validate error success
+514:21:29.348 [main] INFO  71ogger {36} -browser close success
+514:21:30.634 [main] INFO  43ogger {36} -chrome browser open success
+514:21:32.013 [main] INFO  79ogger {36} - landed on Swag Labs
+514:21:32.149 [main] INFO  82ogger {36} -username entered success
+514:21:32.215 [main] INFO  84ogger {36} -Password entered success
+514:21:32.284 [main] INFO  86ogger {36} -click on login button success
+514:21:32.338 [main] INFO  91ogger {36} -validate error success
+514:21:32.697 [main] INFO  71ogger {36} -browser close success
+514:21:33.829 [main] INFO  43ogger {36} -chrome browser open success
+514:21:34.438 [main] INFO  57ogger {36} - landed on Swag Labs
+514:21:34.547 [main] INFO  61ogger {36} -username entered success
+514:21:34.630 [main] INFO  63ogger {36} -Password entered success
+514:21:34.700 [main] INFO  65ogger {36} -click on login button success
+514:21:35.095 [main] INFO  71ogger {36} -browser close success
+514:21:36.296 [main] INFO  43ogger {36} -chrome browser open success
+514:21:36.956 [main] INFO  15ogger {36} - landed on Swag Labs
+514:21:37.103 [main] INFO  18ogger {36} -username entered success
+514:21:37.189 [main] INFO  20ogger {36} -Password entered success
+514:21:37.308 [main] INFO  22ogger {36} -click on login button success
+514:21:37.376 [main] INFO  29ogger {36} -Home page displayed success
+514:21:37.755 [main] INFO  71ogger {36} -browser close success
+514:21:38.951 [main] INFO  43ogger {36} -chrome browser open success
+514:21:41.490 [main] INFO  22ogger {36} -username entered success
+514:21:41.592 [main] INFO  24ogger {36} -Password entered success
+514:21:41.702 [main] INFO  26ogger {36} -click on login button success
+514:21:41.754 [main] INFO  32ogger {36} -User logged in success
+514:21:41.811 [main] INFO  36ogger {36} -click on humberger menu success
+514:21:41.942 [main] INFO  39ogger {36} -click on logout lik success
+514:21:41.978 [main] INFO  44ogger {36} -login page header is displayed success
+514:21:42.000 [main] INFO  49ogger {36} -login page header text validation,logged out success
+514:21:42.349 [main] INFO  71ogger {36} -browser close success
