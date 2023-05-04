@@ -5,7 +5,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class LogoutTest extends SetUp {
-
+ /**********************************************************************************************/
     //create logger to replace system.out.print("")
     Logger log= LogManager.getLogger(LogoutTest.class.getName());
 
